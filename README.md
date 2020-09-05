@@ -4,7 +4,7 @@
 [![](https://jitpack.io/v/wise4rmgod/ReadTime.svg)](https://jitpack.io/#wise4rmgod/ReadTime)
 
 # MinRead
-A Simple Android library to read through text and give you the time it will take you to finish an article.
+A Simple Android library to get the number of words and give you the time it will take you to finish an article/story.
 
 # Prerequisite
 * Androidx
