@@ -10,7 +10,7 @@ A Simple Android library to read through text and give you the time it will take
 * Androidx
 * Kotlin
 
-![Alt Text](https://res.cloudinary.com/wise4rmgod/image/upload/v1599270133/Screenshot_2020-09-05_at_02.40.45.png)
+![Alt Text](https://res.cloudinary.com/wise4rmgod/image/upload/c_thumb,w_200,g_face/v1599270133/Screenshot_2020-09-05_at_02.40.45.png)
 
 
 # How to set up
