@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ReadTime</string>
+    <string name="lngmessage"> "The coinlayer API's live endpoint is used to get the latest crypto rates for all available or a specific set of cryptocurrencies. "
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
+                    "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options."</string>
+</resources>

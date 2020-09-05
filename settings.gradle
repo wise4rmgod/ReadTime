@@ -1,0 +1,3 @@
+include ':minread'
+include ':app'
+rootProject.name = "ReadTime"
