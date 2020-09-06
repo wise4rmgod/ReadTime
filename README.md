@@ -52,13 +52,13 @@ class MainActivity : AppCompatActivity() {
                 "        reads 150 words per minute. That gives you 6.253. Enter 6.253 into the Decimal-to-Time Calculator, choose “Minutes” \n" +
                 "        from the drop-down menu and press “Calculate.”\n" +
                 "        Immediately, you’ll get a minute and seconds estimate. In this case, it’s 6 minutes and 15 seconds."
-        //min read
-        //  text.text = minread.readtime(ty)
-        //word count
-        wordct.text = minread.countWords(ty).toString()
+        
+        wordct.text = Minread.countWords(ty).toString()
 
+        minread.text = Minread.minread(ty)
+	
         //custom message in the min read
-        minread.text = minread.custome_minread(ty,"min read")
+        minread.text = Minread.custome_minread(ty,"min read")
 
     }
 }
