@@ -32,7 +32,6 @@ class MainActivity : AppCompatActivity() {
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options."
-
         val you = "f your audience reads slower or faster than 200 words per minute — \n" +
                 "        perhaps your blog is in English, which isn’t your audience’s first language, or perhaps your material is extremely\n" +
                 "        basic and easy to skim — then you’ll want to use calculator instead. First, you’ll have to divide your total word \n" +
