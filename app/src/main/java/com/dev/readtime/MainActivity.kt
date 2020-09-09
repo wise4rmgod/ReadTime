@@ -2,6 +2,7 @@ package com.dev.readtime
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dev.minread.Minread
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -41,9 +42,9 @@ class MainActivity : AppCompatActivity() {
                 "        Immediately, you’ll get a minute and seconds estimate. In this case, it’s 6 minutes and 15 seconds."
         // Read Time Logic
         //  text.text = ReadTime.readtime(ty)
-        wordct.text = ReadTime.countWords(ty).toString()
+        wordct.text = Minread.countWords(ty).toString()
 
-        minread.text = ReadTime.readtime(ty)
+        minread.text = Minread.minread(ty)
 
     }
 }
