@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                 "        Immediately, you’ll get a minute and seconds estimate. In this case, it’s 6 minutes and 15 seconds."
         // Read Time Logic
         //  text.text = ReadTime.readtime(ty)
-        wordct.text = Minread.countWords(ty).toString()
+//        wordct.text = Minread.countWords(ty).toString()
 
         minread.text = Minread.minread(ty)
 

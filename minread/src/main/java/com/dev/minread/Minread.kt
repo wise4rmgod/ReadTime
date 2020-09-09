@@ -23,19 +23,6 @@ object Minread {
 
     }
 
-    fun countWords(inputString: String): Int {
-        //Split String by Space
-        val strArray = inputString.split(" ".toRegex()).toTypedArray() // Spilt String by Space
-        val sb = StringBuilder()
-        var count = 0
-
-        //iterate String array
-        for (s in strArray) {
-            if (s != "") {
-                //Increase Word Counter
-                count++
-            }
-        }
-        return count
-    }
+    internal fun countWords(inputString: String): Int =
+        inputString.trim().split("\\s+".toRegex()).size
 }
