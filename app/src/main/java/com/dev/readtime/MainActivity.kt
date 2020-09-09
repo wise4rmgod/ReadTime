@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         //  text.text = ReadTime.readtime(ty)
 //        wordct.text = Minread.countWords(ty).toString()
 
-        minread.text = Minread.minread(ty)
+        minread.text = Minread.minutesRead(ty)
 
     }
 }

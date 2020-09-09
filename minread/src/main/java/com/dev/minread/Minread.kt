@@ -2,7 +2,7 @@ package com.dev.minread
 
 object Minread {
 
-    fun minread(string: String): String {
+    fun minutesRead(string: String): String {
 
         val word_count = countWords(string)
         val total = word_count / 200
