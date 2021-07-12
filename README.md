@@ -15,20 +15,19 @@ A Simple Android library to get the number of words and give you the time it wil
 
 # How to set up
 And add a dependency code to your module's build.gradle file.
-```
+``` groovy
 dependencies {
-	      implementation 'com.github.wise4rmgod:ReadTime:0.1.0'
-	}
-
+    implementation "com.github.wise4rmgod:ReadTime:$version"
+}
 ```
 Add below codes to your root build.gradle file (not your module build.gradle file).
-```
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+``` groovy
+allprojects {
+    repositories {
+        // ...
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 
 ## Example
