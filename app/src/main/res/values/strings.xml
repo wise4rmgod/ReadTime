@@ -22,4 +22,5 @@
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options."</string>
+    <string name="name">joli</string>
 </resources>
