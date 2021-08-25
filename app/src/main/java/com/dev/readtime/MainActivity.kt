@@ -32,7 +32,6 @@ class MainActivity : AppCompatActivity() {
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options." +
                     "To use this endpoint, simply append live to your API request URL, followed by your API access key and any of your preferred options."
-
         val you = "f your audience reads slower or faster than 200 words per minute — \n" +
                 "        perhaps your blog is in English, which isn’t your audience’s first language, or perhaps your material is extremely\n" +
                 "        basic and easy to skim — then you’ll want to use calculator instead. First, you’ll have to divide your total word \n" +
@@ -42,9 +41,9 @@ class MainActivity : AppCompatActivity() {
                 "        Immediately, you’ll get a minute and seconds estimate. In this case, it’s 6 minutes and 15 seconds."
         // Read Time Logic
         //  text.text = ReadTime.readtime(ty)
-        wordct.text = Minread.countWords(ty).toString()
+//        wordct.text = Minread.countWords(ty).toString()
 
-        minread.text = Minread.minread(ty)
+        minread.text = Minread.minutesRead(ty)
 
     }
 }
